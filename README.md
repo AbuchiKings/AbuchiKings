@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/awesomekings" target="blank"><img src="https://img.shields.io/twitter/follow/awesomekings?logo=twitter&style=for-the-badge" alt="awesomekings" /></a> </p>
 
-- 🌱 I’m currently unemployed, **leetcoding and learning Devops**
+- 🌱 I’m currently **unemployed, leetcoding and learning Devops**
 
 - 🤝 I’m looking for help with **Getting a remote job**
 
