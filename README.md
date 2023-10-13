@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">I'm Abuchi</h1>
-<h3 align="center">A passionate Backend/DevOps Engineer with from Lagos, Nigeria</h3>
+<h3 align="center">A passionate Fullstack/DevOps Engineer with from Lagos, Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuchikings&label=Profile%20views&color=0e75b6&style=flat" alt="abuchikings" /> </p>
 
