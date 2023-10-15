@@ -17,8 +17,7 @@
 
 - 📫 How to reach me **abuchikingsley76@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1opDxXTiBy-gHZn5qzSok89Kl9_cIEkQw/view?usp=sharing](https://drive.google.com/file/d/1opDxXTiBy-gHZn5qzSok89Kl9_cIEkQw/view?usp=sharing)
-
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1opDxXTiBy-gHZn5qzSok89Kl9_cIEkQw/view?usp=sharing](https://drive.google.com/file/d/1opDxXTiBy-gHZn5qzSok89Kl9_cIEkQw/view?usp=sharing) -->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
