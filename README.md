@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Getting a remote job**
 
-- 📝 I regularly write articles on [dev.to](dev.to)
+- 📝 I regularly write articles on [https://dev.to/abuchikings](https://dev.to/abuchikings)
 
 - 💬 Ask me about **Javascript, Node and AWS CI/CD**
 
