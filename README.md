@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <h1 align="center">I'm Abuchi</h1>
-<h3 align="center">A passionate Fullstack/DevOps Engineer with from Lagos, Nigeria</h3>
+<h3 align="center">A passionate Backend/DevOps Engineer with from Lagos, Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuchikings&label=Profile%20views&color=0e75b6&style=flat" alt="abuchikings" /> </p>
 
 <p align="left"> <a href="https://twitter.com/awesomekings" target="blank"><img src="https://img.shields.io/twitter/follow/awesomekings?logo=twitter&style=for-the-badge" alt="awesomekings" /></a> </p>
 
-- 🌱 I’m currently **unemployed, leetcoding and learning Devops**
+- 🌱 I’m currently **learning Devops**
 
 - 🤝 I’m looking for help with **Getting a remote job**
 
